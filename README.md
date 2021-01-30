@@ -1,11 +1,11 @@
 <h2> Hi, I'm Rizki 👋</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=vsec7&show_icons=true&theme=radical" width="380">
-<p><em>Security Engineer and Bugbounty Hunter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rizkifreao&show_icons=true&theme=tokyonight" width="380">
+<p><em>PERCUANAN <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 
-[![Twitter: verry__d](https://img.shields.io/twitter/follow/verry__d?style=flat-square)](https://twitter.com/verry__d)
-[![GitHub vsec7](https://img.shields.io/github/followers/vsec7?label=follow%20github&style=flat-square)](https://github.com/vsec7)
-[![Paypal viloid](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/viloid)
+[![Twitter: verry__d](https://img.shields.io/twitter/follow/rizkifreao?style=flat-square)](https://twitter.com/rizkifreao)
+[![GitHub vsec7](https://img.shields.io/github/followers/rizkifreao?label=follow%20github&style=flat-square)](https://github.com/rizkifreao)
+[![Paypal viloid](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/rizkifreao)
 
 <br>
 
